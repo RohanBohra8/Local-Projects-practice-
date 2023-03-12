@@ -1,0 +1,18 @@
+.card {
+    border: 2px solid lightgrey;
+    width: 280px;  
+    padding: 10px;
+    margin: 0.5rem;
+    box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.56);
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+}
+.Img {
+    width: 120px;
+    height: 180px; 
+}
+
+.Card-data {
+    font-size: 80%;
+}
