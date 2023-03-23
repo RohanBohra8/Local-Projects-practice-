@@ -1,0 +1,17 @@
+.GenshinDex {
+  text-align: center;  
+}
+
+.GenshinDex-cards {
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+} 
+
+.GenshinDex-winner {
+    color: #4caf50;
+}
+
+.GenshinDex-loser {
+    color: #e91e63;
+}
